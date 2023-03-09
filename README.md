@@ -1,5 +1,7 @@
 # KAVIN-EC-PORTFOLIO
 
+DEPLOYEMNT LINK:https://portfoliokavin-bnf3hw59c-eckavin2002-gmailcom.vercel.app/
+
 HOME PAGE
 ![image](https://user-images.githubusercontent.com/85669859/223925606-9f450829-093e-4d05-bbe2-e01081c645bc.png)
 
