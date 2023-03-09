@@ -1,22 +1,24 @@
 # KAVIN-EC-PORTFOLIO
 
 HOME PAGE
-![image](https://user-images.githubusercontent.com/85669859/223923039-c2a080fd-d4e6-47d3-86ba-dbb35791ff6b.png)
+![image](https://user-images.githubusercontent.com/85669859/223925606-9f450829-093e-4d05-bbe2-e01081c645bc.png)
+
 
 ABOUT PAGE
-![image](https://user-images.githubusercontent.com/85669859/223923276-d41ec258-2251-4423-b779-bac842cfb820.png)
+![image](https://user-images.githubusercontent.com/85669859/223925669-34803168-831f-45bc-93d0-48e6b93cefd6.png)
 
 
 EDUCATION PAGE
-![image](https://user-images.githubusercontent.com/85669859/223923844-8895bc6e-4cc8-4b16-9931-9493699d0356.png)
+![image](https://user-images.githubusercontent.com/85669859/223925727-cc2a2605-d300-4dcd-8628-2e38a59d5d16.png)
+
 
 PROJECTS PAGE
-![image](https://user-images.githubusercontent.com/85669859/223924067-7e72576b-8b1f-4fdf-8dff-ff3255f32a2d.png)
+![image](https://user-images.githubusercontent.com/85669859/223925804-49cd3d74-cd7c-4d24-ad3b-6da5f33bdaed.png)
 
 
 SKILLS PAGE
-![image](https://user-images.githubusercontent.com/85669859/223924387-0c37a706-732c-4e55-9506-cd9295ffbf77.png)
+![image](https://user-images.githubusercontent.com/85669859/223925846-e935422c-896a-4b19-8f70-20362fa9f3dc.png)
 
 
 CONTACT PAGE
-![image](https://user-images.githubusercontent.com/85669859/223924493-7233a48d-49a1-453c-bafc-3fed52ca3fd3.png)
+![image](https://user-images.githubusercontent.com/85669859/223925870-7c17ebd6-4b8c-405f-a58b-d0ff5a9a3568.png)
